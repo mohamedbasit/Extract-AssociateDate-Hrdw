@@ -1,0 +1,18 @@
+# Dependency directories
+node_modules/
+backup plan/
+sampleGeneration/
+
+# Resources directories
+resources/
+
+# Coverage directory used by tools like istanbul
+coverage
+
+# dotenv environment variables file
+.env
+
+
+.npmrc
+
+package-lock.json
